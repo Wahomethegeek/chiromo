@@ -1,0 +1,33 @@
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 23, 2013
+Return Date: Feb 2, 2013 = Days: 0
+Full Name: Tony Strak
+Age: 38
+Location: California
+Contact: 5353533535
+Car: Van-2009
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Feb 2, 2020
+ 
+Pick up Date: Mar 2, 2019
+Return Date: Apr 4, 2019 = Days: 32
+Full Name: kelvin Wahome
+Age: 23
+Location: Ongata Rongai
+Contact: +254719196525
+Car: Bus-2007
+Total Rent Price: 22400.00 
+--------------------------------------------------
+Current Date: Oct 25, 2022
+ 
+Pick up Date: Oct 28, 2022
+Return Date: Nov 5, 2022 = Days: 0
+Full Name: Wahome Kelvin
+Age: 52
+Location: Nairobi
+Contact: 0719196525
+Car: Taxi-2002
+Total Rent Price: 0.00 
+--------------------------------------------------
